@@ -1,0 +1,15 @@
+# Python 的字节编译文件
+__pycache__/
+*.py[cod]
+
+# 虚拟环境目录（非常重要！不要提交环境）
+venv/
+env/
+.venv/
+
+# VS Code 的配置目录（根据个人偏好，可不提交）
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
